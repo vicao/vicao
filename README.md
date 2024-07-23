@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Me chamo Vinicius Silva, Dev Backend Java.</h2>
+<h2 align="left">Olá 👋! Me chamo Vinicius Silva e sou Dev Backend Java.</h2>
 
 ###
 
